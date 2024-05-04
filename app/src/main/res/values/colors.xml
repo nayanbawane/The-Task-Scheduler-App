@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_grey">#424444</color>
+    <color name="blue">#303E8F</color>
+    <color name="dark_blue">#003748</color>
+    <color name="light_blue">#035E7B</color>
+    <color name="red">#0AB68B</color>
+
+    <color name="NoteColor2">#1C8BA8</color>
+    <color name="NoteColor3">#26A95E</color>
+    <color name="NoteColor4">#D9D55B</color>
+    <color name="NoteColor5">#068D81</color>
+    <color name="NoteColor6">#6FB972</color>
+
+    <color name="Note1">#3E54D3</color>
+    <color name="Note2">#2E4583</color>
+    <color name="Note3">#15CDCA</color>
+
+    <color name="btn_clr">#D318AE58</color>
+
+
+
+</resources>

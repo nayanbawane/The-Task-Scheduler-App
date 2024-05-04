@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">The Task Scheduler</string>
+    <string name="_04_29_pm">04 : 29 pm</string>
+    <string name="_21_12_2023">21/12/2023</string>
+    <string name="message">Message</string>
+    <string name="title">Title</string>
+    <string name="_23_11_2023">23/11/2023</string>
+    <string name="_05_48_pm">05 : 48 PM</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="new_task">New Task</string>
+    <string name="timer">Timer</string>
+    <string name="date">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_the_message">Enter the message..</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="submit">Submit</string>
+    <string name="task">Task</string>
+    <string name="your_task">Your Task</string>
+    <string name="search">Search</string>
+    <string name="nothing_here_nadd_your_task">Nothing Here\nAdd Your Task</string>
+    <string name="to">To</string>
+</resources>
